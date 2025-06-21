@@ -1,0 +1,5 @@
+LEETCODE 242. Valid Anagram
+
+//Can be solved using hashing.
+//I have tried to solve using sort() function.
+//It help me to complete it using less lines of code.
